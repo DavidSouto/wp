@@ -7,6 +7,7 @@ Just download the two files (index.html and photo.gif) and start editing straigh
 
 # How To
 
+lll
 ### Step 1: Fork the Repository
 1. Open the **Plain-Academic Template** repository on GitHub.
 2. Click the **Fork** button in the top-right corner to create your own copy.
